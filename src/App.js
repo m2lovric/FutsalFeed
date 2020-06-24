@@ -1,11 +1,11 @@
 import React from 'react';
 
-import Header from './components/Header';
-import News from './components/News';
-import Newsletter from './components/Newsletter';
-import OtherNews from './components/OtherNews';
-import SocialMedia from './components/SocialMedia';
-import Footer from './components/Footer';
+import Header from './components/Header/Header';
+import News from './components/News/News';
+import Newsletter from './components/Newsletter/Newsletter';
+import OtherNews from './components/OtherNews/OtherNews';
+import SocialMedia from './components/SocialMedia/SocialMedia';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
