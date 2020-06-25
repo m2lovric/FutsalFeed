@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.scss';
 
 import Header from './components/Header/Header';
 import News from './components/News/News';
